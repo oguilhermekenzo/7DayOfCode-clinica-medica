@@ -10,13 +10,15 @@
     --cinza-carvao: #464646;
     --cinza-medio: #A3A3A3;
     --branco: #FFFFFF;
+    --bk-geral: #E5E5E5;
     --fundo-card: #ECECEC;
     --fundo-chat: #F6F6F6;
     --amarelo: #FFB050;
+    --azul: #4894FF;
 }
 
 body {
-    background-color: var(--branco);
+    background-color: var(--bk-geral);
     font-family: var(--font-principal);
     color: var(--cinza-carvao);
     font-size: 14px;
@@ -35,4 +37,11 @@ hr {
     padding: 1em;
     border-radius: 8px;
     color: var(--branco);
+}
+
+.diasemana {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 2em;
+    margin-left: 2em;
 }

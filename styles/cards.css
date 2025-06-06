@@ -1,8 +1,9 @@
 .card1 {
-    background-color: var(--cor-card);
+    background-color: var(--branco);
     border-radius: 8px;
     margin: 1em 1em;
     padding: 0.5em;
+    /* height: 11.5em; */
 }
 
 .card1__superior {
@@ -38,16 +39,30 @@
     transform: translate(-50%, -50%);
 }
 
+.card1__inferior {
+    box-sizing: border-box;
+}
+
 .inferor__horario {
     font-size: 12px;
-    font-weight: 500;
+    font-weight: 600;
+}
+
+.inferior__botao {
+    padding: 2em;
+    text-align: center;
+}
+
+.inferior__botao .botao__audio {
+    color: var(--cinza-carvao);
+    border: solid 1px var(--cinza-medio);
 }
 
 .botao__video {
     background-color: var(--amarelo);
 }
 
-.botao__audio {
-    color: var(--cinza-carvao);
-    border: solid 1px var(--cinza-medio);
+.inferior__botao .botao__endereco {
+    background-color: var(--azul);
+    padding: 1em 8.5em;
 }

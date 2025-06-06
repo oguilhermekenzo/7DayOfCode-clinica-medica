@@ -1,0 +1,53 @@
+.card1 {
+    background-color: var(--cor-card);
+    border-radius: 8px;
+    margin: 1em 1em;
+    padding: 0.5em;
+}
+
+.card1__superior {
+    display: flex;
+    justify-content: space-between;
+}
+
+.superior__texto {
+    margin-left: 1em;
+    margin-right: auto;
+}
+
+.superior__consulta {
+    margin-top: 0.75em;
+    display: flex;
+    gap: 1em;
+}
+
+.superior__chat {
+    position: relative;
+    background-color: var(--fundo-chat);
+    border-radius: 100%;
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    padding: 0.1em;
+}
+
+.icone__chat {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.inferor__horario {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.botao__video {
+    background-color: var(--amarelo);
+}
+
+.botao__audio {
+    color: var(--cinza-carvao);
+    border: solid 1px var(--cinza-medio);
+}

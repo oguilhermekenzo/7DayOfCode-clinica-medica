@@ -1,0 +1,58 @@
+.statusbar {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em 1.5em;
+}
+
+.statusbar__hora {
+    font-family: var(--font-horario);
+    font-size: 14px;
+    color: var(--preto);
+}
+
+.statusbar__icone .icone {
+    margin-left: 1em;
+}
+
+.avatarhome {
+    display: flex;
+    margin: 2.5em 2em;
+    gap: 1em;
+    align-items: center;
+}
+
+.foto__avatar {
+    border-radius: 50%;
+    width: 3em;
+}
+
+.avatarhome__foto {
+    width: 4em;
+}
+
+.texto__nome {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.avatarhome__nome {
+    font-size: 22px;
+}
+
+.texto__consulta {
+    font-size: 12px;
+    color: var(--cinza-medio);
+}
+
+.avatarhome__consulta {
+    font-size: 14px;
+    margin-top: 0.5em;
+}
+
+.diasemana {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 2em;
+    margin-left: 2em;
+}

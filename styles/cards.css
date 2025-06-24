@@ -66,3 +66,28 @@
     background-color: var(--azul);
     padding: 1em 7em;
 }
+
+@media screen and (min-width: 768px) {
+    .cards {
+        display: block;
+    }
+
+    .card__grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1em;
+    }
+
+    .inferior__botao {
+        padding: 1em;
+        margin-top: 1em;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .card__grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 1em;
+    }
+}

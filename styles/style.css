@@ -2,6 +2,8 @@
 @import url(./reset.css);
 @import url(./header.css);
 @import url(./cards.css);
+@import url(./rodape.css);
+@import url(./botao__flutuante);
 
 :root {
     --font-horario: "Open Sans";
@@ -28,7 +30,7 @@ hr {
     border: none;
     height: 1px;
     background-color: var(--cinza-medio);
-    margin: 1em 0;
+    margin: 1em -1em;
 }
 
 .botao {

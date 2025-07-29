@@ -24,13 +24,13 @@ A proposta foi criar uma página para uma clínica médica, onde médicos(as) po
 
 ## 📂 Organização do projeto
 
-📁 dia1 - Cabeçalho e lista de consultas
-📁 dia2 - Rodapé e botão flutuante
-📁 dia3 - Unidades relativas e limites de layout
-📁 dia4 - Layout com múltiplas colunas
-📁 dia5 - Menu lateral no desktop
-📁 dia6 - Formulário de cadastro no desktop
-📁 dia7 - Finalização e publicação no GitHub Pages
+- 📁 dia1 - Cabeçalho e lista de consultas
+- 📁 dia2 - Rodapé e botão flutuante
+- 📁 dia3 - Unidades relativas e limites de layout
+- 📁 dia4 - Layout com múltiplas colunas
+- 📁 dia5 - Menu lateral no desktop
+- 📁 dia6 - Formulário de cadastro no desktop
+- 📁 dia7 - Finalização e publicação no GitHub Pages
 
 ## 🚀 Publicação na  Vercel 
 

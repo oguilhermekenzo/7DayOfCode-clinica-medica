@@ -30,7 +30,7 @@ A proposta foi criar uma página para uma clínica médica, onde médicos(as) po
 - 📁 dia4 - Layout com múltiplas colunas
 - 📁 dia5 - Menu lateral no desktop
 - 📁 dia6 - Formulário de cadastro no desktop
-- 📁 dia7 - Finalização e publicação no GitHub Pages
+- 📁 dia7 - Finalização e publicação na Vercel
 
 ## 🚀 Publicação na  Vercel 
 
